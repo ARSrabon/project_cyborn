@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Miniport by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 <head>
     <title>Miniport by HTML5 UP</title>
@@ -19,7 +14,7 @@
 <!-- Nav -->
 <nav id="nav">
     <ul class="container">
-        <li><a href="#top">Top</a></li>
+        <li><a href="#top">Home</a></li>
         <li><a href="#work">Work</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
         <li><a href="#contact">Contact</a></li>
@@ -31,11 +26,11 @@
     <article class="container" id="top">
         <div class="row">
             <div class="4u 12u(mobile)">
-                <span class="image fit"><img src="storage/images/pic00.jpg" alt="" /></span>
+                <span class="image fit"><img src="storage/MyProPic.jpg" alt="" /></span>
             </div>
             <div class="8u 12u(mobile)">
                 <header>
-                    <h1>Hi. I'm <strong>Jane Doe</strong>.</h1>
+                    <h1>Hi. I'm <strong>Md. Abu Raihan</strong>.</h1>
                 </header>
                 <p>And this is <strong>Miniport</strong>, a free, fully responsive HTML5 site template designed by <a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net">HTML5 UP</a> &amp; released under the <a href="http://html5up.net/license">CCA license</a>.</p>
                 <a href="#work" class="button scrolly btn btn-lg">Learn about what I do</a>
@@ -192,13 +187,13 @@
                     <hr />
                     <h3>Find me on ...</h3>
                     <ul class="social">
-                        <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                        <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                        <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-                        <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-                        <li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+                        {{--<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>--}}
+                        {{--<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>--}}
+                        {{--<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>--}}
+                        <li><a href="https://www.linkedin.com/in/mdaburaihan" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                        {{--<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>--}}
                         <li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-                        <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+                        <li><a href="https://github.com/ARSrabon" class="icon fa-github"><span class="label">Github</span></a></li>
                         <!--
                         <li><a href="#" class="icon fa-rss"><span>RSS</span></a></li>
                         <li><a href="#" class="icon fa-instagram"><span>Instagram</span></a></li>
@@ -217,7 +212,7 @@
         </div>
         <footer>
             <ul id="copyright">
-                <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                <li>&copy; Untitled. All rights reserved.</li>
             </ul>
         </footer>
     </article>
